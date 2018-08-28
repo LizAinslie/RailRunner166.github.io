@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Readers, Get Ready"
+featured-img: emile-perron-190221
 categories: []
 ---
 
