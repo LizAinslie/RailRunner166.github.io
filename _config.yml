@@ -4,7 +4,7 @@ author: RailRunner16 # You :P
 description: > # Meta description of Homepage
   This is my blog where I write about life, coding, and the pursuit of memes.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://railrunner16.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://railrunner16.me/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
