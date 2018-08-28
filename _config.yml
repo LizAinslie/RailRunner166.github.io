@@ -21,7 +21,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  I write, you laugh.
+  I write, you enjoy.
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
@@ -40,7 +40,7 @@ service_worker: true
 
 # BUILD SETTINGS
 markdown: kramdown
-highlighter: rouge # or pygments or null
+highlighter: pygments # or pygments or null
 # theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
 exclude:
   - README.md
