@@ -2,7 +2,7 @@
 layout: post
 title: "How to Write an 8ball Command in Eris"
 featured-img: pau-casals-588027
-categories: Guides
+categories: [Guides, Discord]
 ---
 
 8-Ball is one of the most basic Discord bot commands, making it a staple in most all bots. I have one that I wrote a long time ago, and today I want to share it with you.
