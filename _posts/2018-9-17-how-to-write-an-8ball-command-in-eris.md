@@ -54,18 +54,18 @@ The code that goes inside the run function starts with this line:
 if (args.length < 1) return message.channel.createMessage(':question: │ Missing `&lt;question&gt;` option.')
 ```
 
-Lets digest this line. It checks to see if there are no arguments, and if there are none, it replies with: ``:question: │ Missing `<question>` option.``
+Lets digest this line. It checks to see if there are no arguments, and if there are none, it replies with: ``Missing `<question>` option.``
 
 The next line goes as follows:
 ```js
-if (!(args[args.length - 1].endsWith('?'))) return message.channel.createMessage(':question: │ Missing a `?`.')
+if (!(args[args.length - 1].endsWith('?'))) return message.channel.createMessage('Missing a `?`.')
 ```
 
 You can choose whether you want to include this line or not, all it does is check whether there is a `?` or not at the end of the message, and rejects it if not.
 
 The last line is what determines the 8-ball response and sends it to the user.
 ```js
-message.channel.createMessage(`:crystal_ball: │ ${responses[Math.floor(Math.random() * responses.length)]}`)
+message.channel.createMessage(responses[Math.floor(Math.random() * responses.length)])
 ```
 
 This sends a random response from the responses array to the user.
