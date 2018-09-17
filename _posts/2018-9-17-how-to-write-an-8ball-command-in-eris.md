@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Write an 8ball Command in Eris"
+summary: Today we will write an 8-ball command in Eris
 featured-img: pau-casals-588027
 categories: [Guides, Discord]
 ---
@@ -41,6 +42,7 @@ Some common responses for 8-ball commands are:
 Since I used to use Discord.js, my run function goes as follows:
 
 ```js
+// responses array above this line
 exports.run = (client, message, args) => {
     // Command code
 }
