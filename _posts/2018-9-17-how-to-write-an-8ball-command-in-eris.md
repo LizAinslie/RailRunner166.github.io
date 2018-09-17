@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Write an 8ball Command in Eris"
-summary: Today we will write an 8-ball command in Eris
+summary: Today we will write an 8-ball command for a Discord bot in Eris.
 featured-img: pau-casals-588027
 categories: [Guides, Discord]
 ---
