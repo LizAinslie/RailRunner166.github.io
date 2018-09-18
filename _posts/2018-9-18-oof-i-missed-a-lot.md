@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OOF, I missed a lot."
-featured-img: pau-casals-588027
+featured-img: joshua-eckstein-1060835
 categories: []
 ---
 
