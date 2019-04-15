@@ -2,7 +2,7 @@
 layout: post
 title: "My Recent Activity"
 summary: Life, Liberty, and the Pursuit of Memes
-featured-img: 2019-4-11
+featured-img: shane-rounce-205187
 categories: [Programming,Discord,Life]
 ---
 

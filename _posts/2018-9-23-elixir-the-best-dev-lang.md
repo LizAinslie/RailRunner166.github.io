@@ -20,7 +20,7 @@ IO.puts("The average of 3 and 7 is #{avg.(3, 7)}")
 # Output: The average of 3 and 7 is 5.0
 ```
 
-I plan on adding a more advanced `average` function to the `HiHash.Math` module soon.
+I plan on adding a more advanced `average` function to the `HiDash.Math` module soon.
 
 Ruby supports bare words after a function `method_missing` is defined, but Elixir supports them by default. I don't use them, because that's insane, but it's a cool feature to have ~~and to play around with~~.
 
